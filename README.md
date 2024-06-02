@@ -2,6 +2,7 @@
 Да се напише еквивалентна асемблерска програма на
 соодветната C програма:
 
+```
 void main()
 {
  const int = 30;
@@ -12,7 +13,7 @@ void main()
  x[i]=4*y[i];
  }
 } 
-
+```
 **Developed by:**
 
 [Bojan Aleksov](https://github.com/BojanAleksov)
